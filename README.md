@@ -105,3 +105,11 @@ pharmacy/
 ├─ users.php                staff accounts (admin)
 └─ settings.php             shop configuration (admin)
 ```
+
+<p align="center">
+   <img src="./1.png" alt="EduCore SMS">
+   <img src="./2.png" alt="EduCore SMS">
+   <img src="./3.png" alt="EduCore SMS">
+   <img src="./4.png" alt="EduCore SMS">
+
+</p>
